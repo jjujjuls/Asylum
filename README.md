@@ -55,5 +55,4 @@ You wake up inside an abandoned asylum. Shadows whisper your name, and something
 
 ---
 
-## 📁 Repository Structure (Optional)
 
