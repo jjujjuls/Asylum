@@ -30,7 +30,7 @@ You wake up inside an abandoned asylum. Shadows whisper your name, and something
   - Lets you **attack and stun** the demon for **20 seconds** (with an additional +10s if hit again)
 
 - **First-Person Exploration**  
-  - Explore eerie hallways, avoid traps, and stay hidden  
+  - Explore eerie hallways, collect objectives, and stay hidden
 
 ## 🕹️ Controls
 
